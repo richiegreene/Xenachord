@@ -1,2 +1,2 @@
 # Xenachord
-Xenharmonic MIDI controller modifications via 3D printed keyboards 
+Xenharmonic MIDI controller modifications via 3D printed keyboard layouts
